@@ -1,0 +1,21 @@
+.footer__content {
+    justify-content: space-between;
+}
+
+.row__1 {
+    order: 1;
+    justify-content: flex-start;
+    min-width: 30%;
+}
+
+.row__2 {
+    order: 2;
+    width: auto;
+    justify-content: center;
+}
+
+.row__3 {
+    order: 3;
+    justify-content: flex-end;
+    min-width: 30%;
+}
