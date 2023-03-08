@@ -1,3 +1,11 @@
+.header__left {
+    width: 10%;
+}
+
+.header__rigth {
+    width: 22%;
+}
+
 .footer__content {
     justify-content: space-between;
 }
